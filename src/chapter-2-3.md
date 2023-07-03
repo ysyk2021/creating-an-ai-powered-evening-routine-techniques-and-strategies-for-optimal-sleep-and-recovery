@@ -3,11 +3,6 @@ Examples of Successful Implementation of AI in Sleep and Recovery
 
 Artificial intelligence (AI) technologies are increasingly being used to improve sleep quality and support recovery. In this chapter, we will explore the basics of AI and its applications in sleep and recovery. We will also look at examples of successful implementation of AI in these areas.
 
-What is AI?
------------
-
-AI refers to the simulation of human intelligence in machines that are programmed to execute tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI technologies can be used to analyze data, identify patterns, and provide insights and recommendations based on that analysis.
-
 Applications of AI in Sleep and Recovery
 ----------------------------------------
 
