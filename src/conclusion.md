@@ -1,4 +1,3 @@
-# Conclusion
 
 ## *Recap of the Benefits of Using AI for Creating an Effective Evening Routine*
 

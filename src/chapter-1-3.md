@@ -1,5 +1,3 @@
-What You Can Expect From This Book
-================================================
 
 Welcome to "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery". This book is designed to help you optimize your evening routine using the latest AI technologies, leading to improved sleep quality and overall well-being.
 

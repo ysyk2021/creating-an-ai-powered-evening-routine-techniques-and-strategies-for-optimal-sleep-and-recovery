@@ -1,5 +1,3 @@
-Steps for Creating an Effective Bedtime Routine
-=====================================================================================================
 
 Creating an effective bedtime routine is essential for achieving optimal rest and recovery. With the help of artificial intelligence (AI), we can create personalized routines that align with our sleep patterns and habits. In this chapter, we will explore the steps for creating an effective AI-powered bedtime routine.
 

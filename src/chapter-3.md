@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Evening Routine
-====================================================
 
 Designing an effective AI-powered evening routine is essential for achieving optimal rest and recovery. With the help of artificial intelligence (AI), we can create personalized routines that align with our sleep patterns and habits. In this chapter, we will explore the steps for creating an effective bedtime routine, integrating AI-powered tools for personalized content creation and curation, and setting realistic goals and tracking progress on your AI-powered evening routine.
 

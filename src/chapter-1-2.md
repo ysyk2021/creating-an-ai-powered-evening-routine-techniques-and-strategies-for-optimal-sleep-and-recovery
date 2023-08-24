@@ -1,5 +1,3 @@
-How AI Can Improve Bedtime Routines and Promote Better Health
-===========================================================================
 
 Getting a good night's sleep is crucial for maintaining optimal health and well-being. Yet, many individuals struggle with falling asleep or staying asleep throughout the night. This can lead to feelings of fatigue, stress, and decreased productivity during the day.
 

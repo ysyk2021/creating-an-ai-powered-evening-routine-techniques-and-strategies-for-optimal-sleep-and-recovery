@@ -1,5 +1,3 @@
-What is AI and how does it work?
-========================================================================================================
 
 Artificial intelligence (AI) technologies are becoming increasingly important in the field of sleep and recovery. In this chapter, we will explore what AI is and how it works.
 

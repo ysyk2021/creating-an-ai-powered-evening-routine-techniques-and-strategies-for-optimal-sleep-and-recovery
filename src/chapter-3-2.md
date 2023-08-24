@@ -1,5 +1,3 @@
-Integrating AI-Powered Tools for Personalized Content Creation and Curation
-=================================================================================================================================
 
 Creating an effective evening routine requires personalized content that aligns with our sleep patterns and habits. With the help of artificial intelligence (AI), we can create and curate personalized content that promotes relaxation and stress relief. In this chapter, we will explore how to integrate AI-powered tools for personalized content creation and curation into your evening routine.
 

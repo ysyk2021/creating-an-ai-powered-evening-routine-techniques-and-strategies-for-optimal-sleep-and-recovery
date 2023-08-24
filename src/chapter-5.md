@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Relaxation Techniques with AI
-==================================================
 
 Relaxation techniques are an important part of an evening routine, and artificial intelligence (AI) can be used to enhance these techniques for a more immersive and personalized experience. In this chapter, we will explore how AI can be used to enhance relaxation techniques through visualization, soundscapes, and personalization.
 

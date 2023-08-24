@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in Sleep and Recovery
-======================================================================
 
 Artificial intelligence (AI) technologies are rapidly advancing and becoming more widely used in the field of sleep and recovery. In this chapter, we will explore what AI is and how it works, common applications of AI in sleep and recovery, and examples of successful implementation of AI in these areas.
 

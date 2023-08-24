@@ -1,5 +1,3 @@
-Personalizing Relaxation Techniques with Machine Learning
-=============================================================================================================
 
 Relaxation techniques are an essential component of an effective evening routine, as they can help to promote relaxation and reduce stress. However, not all relaxation techniques are equally effective for everyone. That's where Artificial Intelligence (AI) comes in - by personalizing relaxation techniques using machine learning algorithms, individuals can achieve optimal results.
 

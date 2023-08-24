@@ -1,5 +1,3 @@
-Setting Realistic Goals and Tracking Progress on Your AI-Powered Evening Routine
-======================================================================================================================================
 
 Designing an effective evening routine requires setting realistic goals and tracking progress. With the help of artificial intelligence (AI), we can create personalized routines that align with our sleep patterns and habits. In this chapter, we will explore how to set realistic goals and track progress on your AI-powered evening routine.
 

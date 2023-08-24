@@ -1,4 +1,3 @@
-# Introduction
 
 Getting a good night's sleep is essential for our overall health and well-being. However, in today's fast-paced world, it can be challenging to unwind and relax after a long day. Fortunately, advancements in technology have made it easier than ever to achieve a restful night's sleep.
 

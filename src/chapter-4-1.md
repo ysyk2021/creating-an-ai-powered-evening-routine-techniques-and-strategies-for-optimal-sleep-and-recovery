@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Content Generators and Idea Prompts for Relaxation and Stress Relief
-==========================================================================================================================================================================
 
 Relaxation and stress relief are important components of a healthy evening routine, and machine learning (ML) technologies can be used to provide personalized content and idea prompts for optimal relaxation and stress relief. In this chapter, we will explore how ML-powered content generators and idea prompts can be used to provide personalized recommendations for relaxation and stress relief.
 
