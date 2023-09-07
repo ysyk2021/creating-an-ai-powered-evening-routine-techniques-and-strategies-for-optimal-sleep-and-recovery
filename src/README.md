@@ -8,3 +8,7 @@ In this book, we will explore the benefits of an AI-powered evening routine for 
 By implementing these AI-powered tools and techniques, readers can take control of their evening routines and improve their sleep habits. Whether you're struggling with insomnia or simply looking to enhance your sleep experience, this book has something for everyone. So, let's dive into the world of AI-powered sleep and discover how it can transform our bedtime routines for the better.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
