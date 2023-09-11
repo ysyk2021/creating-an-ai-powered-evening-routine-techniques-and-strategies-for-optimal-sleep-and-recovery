@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Addressing Concerns About Privacy and Security When Using AI in Sleep and Recovery" for the book "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery":
 
-Chapter 8: Addressing Concerns About Privacy and Security When Using AI in Sleep and Recovery
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the age of AI, harnessing technology to improve your sleep and recovery is incredibly appealing. However, it's crucial to be mindful of the privacy and security implications when incorporating AI into your evening routine. This chapter explores these concerns and provides strategies for safeguarding your personal data.
 

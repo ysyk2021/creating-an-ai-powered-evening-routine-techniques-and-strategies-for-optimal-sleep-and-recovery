@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Setting Realistic Goals and Tracking Progress on Your AI-Powered Evening Routine" for the book "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery":
 
-Chapter 9: Setting Realistic Goals and Tracking Progress on Your AI-Powered Evening Routine
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Your AI-powered evening routine is a powerful tool for optimizing your sleep and recovery. To make the most of it, you'll need to set clear goals and track your progress. In this chapter, we'll explore the importance of goal setting, how to establish realistic objectives, and ways to monitor your journey toward better sleep and recovery.
 

@@ -1,5 +1,4 @@
-Chapter 3: Steps for Creating an Effective Bedtime Routine
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential steps for creating an effective bedtime routine that is powered by AI techniques and strategies to optimize your sleep and recovery. A well-structured bedtime routine can significantly improve the quality of your sleep and enhance your overall well-being. By incorporating AI-powered insights, you can take your bedtime routine to the next level.
 

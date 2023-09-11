@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "What is AI and How Does It Work?" for the book "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery":
 
-Chapter 2: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before we delve into the techniques and strategies for optimizing your evening routine with AI, it's essential to understand the fundamentals of Artificial Intelligence (AI) and how it functions. In this chapter, we'll explore the basics of AI and its underlying principles.
 

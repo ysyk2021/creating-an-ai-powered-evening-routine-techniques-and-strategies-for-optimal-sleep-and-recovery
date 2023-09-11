@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "AI-Powered Soundscapes and Other Auditory Relaxation Techniques" for the book "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery":
 
-Chapter 5: AI-Powered Soundscapes and Other Auditory Relaxation Techniques
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Sound plays a pivotal role in setting the tone for relaxation and promoting better sleep. In this chapter, we'll explore how Artificial Intelligence (AI) can be harnessed to create personalized auditory experiences that enhance your evening routine, ensuring optimal sleep and recovery.
 

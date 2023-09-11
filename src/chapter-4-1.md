@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter titled "Using Machine Learning-Powered Content Generators and Idea Prompts for Relaxation and Stress Relief" for the book "Creating an AI-Powered Evening Routine: Techniques and Strategies for Optimal Sleep and Recovery":
 
-Chapter 6: Using Machine Learning-Powered Content Generators and Idea Prompts for Relaxation and Stress Relief
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our fast-paced digital age, finding moments of relaxation and stress relief can be a challenge. However, with the assistance of machine learning-powered content generators and idea prompts, you can curate a soothing and rejuvenating evening routine. In this chapter, we explore how to harness AI technology to enhance your relaxation experience.
 
